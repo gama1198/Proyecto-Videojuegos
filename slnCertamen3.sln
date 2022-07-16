@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pryCertamen3", "pryCertamen3\pryCertamen3.csproj", "{74800257-51CF-4B55-9F7B-25DAE67FFC67}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74800257-51CF-4B55-9F7B-25DAE67FFC67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74800257-51CF-4B55-9F7B-25DAE67FFC67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74800257-51CF-4B55-9F7B-25DAE67FFC67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74800257-51CF-4B55-9F7B-25DAE67FFC67}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A5E77057-EE0D-4948-8A74-80CB85FA8176}
+	EndGlobalSection
+EndGlobal

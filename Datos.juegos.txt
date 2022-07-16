@@ -1,0 +1,15 @@
+Grand Theft Auto V;25000000
+OverWatch;3000000
+World of Warcraft;36000000
+PUBG;72000000
+Minecraft;92000000
+Counter Strike;46000000
+Fortnite;85000000
+League of Legends;98000000
+Warzone;75000000
+Apex Legends;70000000
+Dofus;62000000
+Dota 2;42900000
+FIFA 20;10000000
+José;1
+Jose;23

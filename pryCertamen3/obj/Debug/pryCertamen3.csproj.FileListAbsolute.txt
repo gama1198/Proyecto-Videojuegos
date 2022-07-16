@@ -1,0 +1,68 @@
+C:\Users\usuario\source\repos\slnCertamen3\pryCertamen3\bin\Debug\pryCertamen3.exe.config
+C:\Users\usuario\source\repos\slnCertamen3\pryCertamen3\bin\Debug\pryCertamen3.exe
+C:\Users\usuario\source\repos\slnCertamen3\pryCertamen3\bin\Debug\pryCertamen3.pdb
+C:\Users\usuario\source\repos\slnCertamen3\pryCertamen3\obj\Debug\pryCertamen3.csprojAssemblyReference.cache
+C:\Users\usuario\source\repos\slnCertamen3\pryCertamen3\obj\Debug\pryCertamen3.Form1.resources
+C:\Users\usuario\source\repos\slnCertamen3\pryCertamen3\obj\Debug\pryCertamen3.Properties.Resources.resources
+C:\Users\usuario\source\repos\slnCertamen3\pryCertamen3\obj\Debug\pryCertamen3.csproj.GenerateResource.cache
+C:\Users\usuario\source\repos\slnCertamen3\pryCertamen3\obj\Debug\pryCertamen3.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\slnCertamen3\pryCertamen3\obj\Debug\pryCertamen3.exe
+C:\Users\usuario\source\repos\slnCertamen3\pryCertamen3\obj\Debug\pryCertamen3.pdb
+C:\Users\usuario\source\repos\slnCertamen3\pryCertamen3\obj\Debug\pryCertamen3.pryListadejuegos.resources
+C:\Users\usuario\source\repos\slnCertamen3\pryCertamen3\obj\Debug\pryCertamen3.pryOrdenar.resources
+C:\Users\Gama\Desktop\slnCertamen3\pryCertamen3\bin\Debug\pryCertamen3.exe.config
+C:\Users\Gama\Desktop\slnCertamen3\pryCertamen3\bin\Debug\pryCertamen3.exe
+C:\Users\Gama\Desktop\slnCertamen3\pryCertamen3\bin\Debug\pryCertamen3.pdb
+C:\Users\Gama\Desktop\slnCertamen3\pryCertamen3\obj\Debug\pryCertamen3.csprojAssemblyReference.cache
+C:\Users\Gama\Desktop\slnCertamen3\pryCertamen3\obj\Debug\pryCertamen3.Properties.Resources.resources
+C:\Users\Gama\Desktop\slnCertamen3\pryCertamen3\obj\Debug\pryCertamen3.pryListadejuegos.resources
+C:\Users\Gama\Desktop\slnCertamen3\pryCertamen3\obj\Debug\pryCertamen3.csproj.GenerateResource.cache
+C:\Users\Gama\Desktop\slnCertamen3\pryCertamen3\obj\Debug\pryCertamen3.csproj.CoreCompileInputs.cache
+C:\Users\Gama\Desktop\slnCertamen3\pryCertamen3\obj\Debug\pryCertamen3.exe
+C:\Users\Gama\Desktop\slnCertamen3\pryCertamen3\obj\Debug\pryCertamen3.pdb
+C:\Users\Gama\Desktop\slnCertamen3\pryCertamen3\obj\Debug\pryCertamen3.Registrodejuegos.resources
+C:\Users\usuario\Downloads\slnCertamen3\pryCertamen3\bin\Debug\pryCertamen3.exe.config
+C:\Users\usuario\Downloads\slnCertamen3\pryCertamen3\bin\Debug\pryCertamen3.exe
+C:\Users\usuario\Downloads\slnCertamen3\pryCertamen3\bin\Debug\pryCertamen3.pdb
+C:\Users\usuario\Downloads\slnCertamen3\pryCertamen3\obj\Debug\pryCertamen3.csprojAssemblyReference.cache
+C:\Users\usuario\Downloads\slnCertamen3\pryCertamen3\obj\Debug\pryCertamen3.Registrodejuegos.resources
+C:\Users\usuario\Downloads\slnCertamen3\pryCertamen3\obj\Debug\pryCertamen3.Properties.Resources.resources
+C:\Users\usuario\Downloads\slnCertamen3\pryCertamen3\obj\Debug\pryCertamen3.pryListadejuegos.resources
+C:\Users\usuario\Downloads\slnCertamen3\pryCertamen3\obj\Debug\pryCertamen3.csproj.GenerateResource.cache
+C:\Users\usuario\Downloads\slnCertamen3\pryCertamen3\obj\Debug\pryCertamen3.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Downloads\slnCertamen3\pryCertamen3\obj\Debug\pryCertamen3.exe
+C:\Users\usuario\Downloads\slnCertamen3\pryCertamen3\obj\Debug\pryCertamen3.pdb
+C:\Users\usuario\Downloads\slnCertamen3ESTe\pryCertamen3\bin\Debug\pryCertamen3.exe.config
+C:\Users\usuario\Downloads\slnCertamen3ESTe\pryCertamen3\bin\Debug\pryCertamen3.exe
+C:\Users\usuario\Downloads\slnCertamen3ESTe\pryCertamen3\bin\Debug\pryCertamen3.pdb
+C:\Users\usuario\Downloads\slnCertamen3ESTe\pryCertamen3\obj\Debug\pryCertamen3.csprojAssemblyReference.cache
+C:\Users\usuario\Downloads\slnCertamen3ESTe\pryCertamen3\obj\Debug\pryCertamen3.Registrodejuegos.resources
+C:\Users\usuario\Downloads\slnCertamen3ESTe\pryCertamen3\obj\Debug\pryCertamen3.Properties.Resources.resources
+C:\Users\usuario\Downloads\slnCertamen3ESTe\pryCertamen3\obj\Debug\pryCertamen3.pryListadejuegos.resources
+C:\Users\usuario\Downloads\slnCertamen3ESTe\pryCertamen3\obj\Debug\pryCertamen3.csproj.GenerateResource.cache
+C:\Users\usuario\Downloads\slnCertamen3ESTe\pryCertamen3\obj\Debug\pryCertamen3.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Downloads\slnCertamen3ESTe\pryCertamen3\obj\Debug\pryCertamen3.exe
+C:\Users\usuario\Downloads\slnCertamen3ESTe\pryCertamen3\obj\Debug\pryCertamen3.pdb
+C:\Users\Gama\Desktop\slnCertamen3ESTe\pryCertamen3\bin\Debug\pryCertamen3.exe.config
+C:\Users\Gama\Desktop\slnCertamen3ESTe\pryCertamen3\bin\Debug\pryCertamen3.exe
+C:\Users\Gama\Desktop\slnCertamen3ESTe\pryCertamen3\bin\Debug\pryCertamen3.pdb
+C:\Users\Gama\Desktop\slnCertamen3ESTe\pryCertamen3\obj\Debug\pryCertamen3.csprojAssemblyReference.cache
+C:\Users\Gama\Desktop\slnCertamen3ESTe\pryCertamen3\obj\Debug\pryCertamen3.Registrodejuegos.resources
+C:\Users\Gama\Desktop\slnCertamen3ESTe\pryCertamen3\obj\Debug\pryCertamen3.Properties.Resources.resources
+C:\Users\Gama\Desktop\slnCertamen3ESTe\pryCertamen3\obj\Debug\pryCertamen3.pryListadejuegos.resources
+C:\Users\Gama\Desktop\slnCertamen3ESTe\pryCertamen3\obj\Debug\pryCertamen3.csproj.GenerateResource.cache
+C:\Users\Gama\Desktop\slnCertamen3ESTe\pryCertamen3\obj\Debug\pryCertamen3.csproj.CoreCompileInputs.cache
+C:\Users\Gama\Desktop\slnCertamen3ESTe\pryCertamen3\obj\Debug\pryCertamen3.exe
+C:\Users\Gama\Desktop\slnCertamen3ESTe\pryCertamen3\obj\Debug\pryCertamen3.pdb
+C:\Users\Gama\Desktop\IGN.Informática\IGN.Informatica\Primer semestre\T. de lenguaje de Programacion\slnCertamen3ESTe\pryCertamen3\bin\Debug\pryCertamen3.exe.config
+C:\Users\Gama\Desktop\IGN.Informática\IGN.Informatica\Primer semestre\T. de lenguaje de Programacion\slnCertamen3ESTe\pryCertamen3\bin\Debug\pryCertamen3.exe
+C:\Users\Gama\Desktop\IGN.Informática\IGN.Informatica\Primer semestre\T. de lenguaje de Programacion\slnCertamen3ESTe\pryCertamen3\bin\Debug\pryCertamen3.pdb
+C:\Users\Gama\Desktop\IGN.Informática\IGN.Informatica\Primer semestre\T. de lenguaje de Programacion\slnCertamen3ESTe\pryCertamen3\obj\Debug\pryCertamen3.csproj.AssemblyReference.cache
+C:\Users\Gama\Desktop\IGN.Informática\IGN.Informatica\Primer semestre\T. de lenguaje de Programacion\slnCertamen3ESTe\pryCertamen3\obj\Debug\pryCertamen3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gama\Desktop\IGN.Informática\IGN.Informatica\Primer semestre\T. de lenguaje de Programacion\slnCertamen3ESTe\pryCertamen3\obj\Debug\pryCertamen3.Registrodejuegos.resources
+C:\Users\Gama\Desktop\IGN.Informática\IGN.Informatica\Primer semestre\T. de lenguaje de Programacion\slnCertamen3ESTe\pryCertamen3\obj\Debug\pryCertamen3.Properties.Resources.resources
+C:\Users\Gama\Desktop\IGN.Informática\IGN.Informatica\Primer semestre\T. de lenguaje de Programacion\slnCertamen3ESTe\pryCertamen3\obj\Debug\pryCertamen3.pryListadejuegos.resources
+C:\Users\Gama\Desktop\IGN.Informática\IGN.Informatica\Primer semestre\T. de lenguaje de Programacion\slnCertamen3ESTe\pryCertamen3\obj\Debug\pryCertamen3.csproj.GenerateResource.cache
+C:\Users\Gama\Desktop\IGN.Informática\IGN.Informatica\Primer semestre\T. de lenguaje de Programacion\slnCertamen3ESTe\pryCertamen3\obj\Debug\pryCertamen3.csproj.CoreCompileInputs.cache
+C:\Users\Gama\Desktop\IGN.Informática\IGN.Informatica\Primer semestre\T. de lenguaje de Programacion\slnCertamen3ESTe\pryCertamen3\obj\Debug\pryCertamen3.exe
+C:\Users\Gama\Desktop\IGN.Informática\IGN.Informatica\Primer semestre\T. de lenguaje de Programacion\slnCertamen3ESTe\pryCertamen3\obj\Debug\pryCertamen3.pdb
